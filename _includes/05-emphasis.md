@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Pancake Flipping*
+_Super Pancake Flipping_
+
+**Buttering Toast**
+__Super Buttering Toast__
+
+_You **can** combine them_
